@@ -1,17 +1,25 @@
 {
   "name": "ytdl-hd-playlist",
   "version": "1.0.0",
-  "description": "download hd video playlist from youtube",
+  "description": "Download Youtube Hd Video Playlist Upto 4k",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-diggers-369/ytdl-hd-playlist.git"
+  },
+  "author": "code diggers",
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^9.0.1",
     "util": "^0.12.3",
     "youtube-playlist": "^1.0.4",
     "ytdl-core": "^3.2.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/code-diggers-369/ytdl-hd-playlist/issues"
+  },
+  "homepage": "https://github.com/code-diggers-369/ytdl-hd-playlist#readme"
 }
